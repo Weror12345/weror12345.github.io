@@ -3,9 +3,6 @@
     margin-left: 1450px;
 }
 .vadim {
-    border: 20px outset #d8330e;
-    border-radius: 15px;
-    box-sizing: border-box;
     margin-top: 150px;
 }
 body {
@@ -102,4 +99,5 @@ h1 {
 .square2:hover {
   transform: scale(1.05);
   transition: all 0.3s;
+
 }
