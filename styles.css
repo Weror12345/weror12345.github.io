@@ -3,7 +3,9 @@
     margin-left: 1450px;
 }
 .vadim {
-    border: 20px #d8330e;
+    border: 20px #b02a0b;
+    border-radius: 15px;
+    box-sizing: border-box;
     margin-top: 150px;
 }
 body {
@@ -102,4 +104,5 @@ h1 {
   transition: all 0.3s;
 
 }
+
 
